@@ -16,7 +16,45 @@ https://www.tablesgenerator.com/markdown_tables
 | :heavy_check_mark: | 연산자 끼워넣기 |  응용  | https://www.acmicpc.net/problem/14888 |
 | :heavy_check_mark: | 사다리조작 |  심화  | https://www.acmicpc.net/problem/15684 |
 | :heavy_check_mark: | 치킨배달 |  심화  | https://www.acmicpc.net/problem/15686 |
+
+## BFS
 | :heavy_check_mark: |  |    |  |
 | :heavy_check_mark: |  |    |  |
 | :heavy_check_mark: |  |    |  |
 | :heavy_check_mark: |  |    |  |
+| :heavy_check_mark: |  |    |  |
+| :heavy_check_mark: |  |    |  |
+
+## DFS
+| :heavy_check_mark: |  |    |  |
+| :heavy_check_mark: |  |    |  |
+| :heavy_check_mark: |  |    |  |
+| :heavy_check_mark: |  |    |  |
+| :heavy_check_mark: |  |    |  |
+
+## 구간합 구하기(누적합 방식으로)
+
+
+## 다이나믹 프로그래밍
+
+
+## 트리 자료구조에 DP를 적용하는 문제
+
+
+## 이분탐색
+
+
+## 다익스트라
+
+
+## 플로이드-와샬
+
+
+## 위상정렬
+
+
+## 삼성 코딩테스트 기출문제
+https://www.acmicpc.net/workbook/view/1152
+
+## 카카오 코딩테스트 기출문제
+https://programmers.co.kr/learn/challenges?tab=all_challenges
