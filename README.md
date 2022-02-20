@@ -18,19 +18,9 @@ https://www.tablesgenerator.com/markdown_tables
 | :heavy_check_mark: | 치킨배달 |  심화  | https://www.acmicpc.net/problem/15686 |
 
 ## BFS
-| :heavy_check_mark: |  |    |  |
-| :heavy_check_mark: |  |    |  |
-| :heavy_check_mark: |  |    |  |
-| :heavy_check_mark: |  |    |  |
-| :heavy_check_mark: |  |    |  |
-| :heavy_check_mark: |  |    |  |
 
 ## DFS
-| :heavy_check_mark: |  |    |  |
-| :heavy_check_mark: |  |    |  |
-| :heavy_check_mark: |  |    |  |
-| :heavy_check_mark: |  |    |  |
-| :heavy_check_mark: |  |    |  |
+
 
 ## 구간합 구하기(누적합 방식으로)
 
