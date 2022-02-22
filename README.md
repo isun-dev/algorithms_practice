@@ -18,6 +18,14 @@ https://www.tablesgenerator.com/markdown_tables
 | :heavy_check_mark: | 치킨배달 |  심화  | https://www.acmicpc.net/problem/15686 |
 
 ## BFS
+| 체크 | 문제 | 난이도  | 링크 |
+|--|---------|------|---------------------------------------|
+| :heavy_check_mark: | 단지번호 붙이기 | 기본 | https://www.acmicpc.net/problem/2667 |
+| :heavy_check_mark: | 미로 탐색 | 기본 | https://www.acmicpc.net/problem/2178 |
+| :heavy_check_mark: | 연구소 | 응용 | https://www.acmicpc.net/problem/14502 |
+| :heavy_check_mark: | 아기상어 | 응용 | https://www.acmicpc.net/problem/16236 |
+| :heavy_check_mark: | 다리만들기 | 응용 | https://www.acmicpc.net/problem/2146 |
+| :heavy_check_mark: | 치즈 | 응용 | https://www.acmicpc.net/problem/2638 |
 
 ## DFS
 
