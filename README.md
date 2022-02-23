@@ -3,6 +3,10 @@
 - [미완료] :heavy_check_mark:
 - [완료] :white_check_mark:
 
+# 목표
+- 1 DAY, AT LEAST 1 ALGORITHMS
+- 
+
 ### Markdown 표 간편하게 만들기
 https://www.tablesgenerator.com/markdown_tables
 
