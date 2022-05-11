@@ -3,10 +3,9 @@
 - [완료] :white_check_mark:
 
 # 목표
-- ㄱ
+- 백준 골드 3 달성
+- 프로그래머스 3 레벨까지 풀 수 있도록.
 
-| :heavy_check_mark: | 치킨배달 |  심화  | https://www.acmicpc.net/problem/15686 ㅂ
-| :heavy_check_mark: | 치킨배달 |  심화  | https://www.acmicpc.net/problem/15686 |
 ## 삼성 코딩테스트 기출문제
 https://www.acmicpc.net/workbook/view/1152
 
